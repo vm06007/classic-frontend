@@ -1,0 +1,27 @@
+{
+  "name": "classic-frontend",
+  "version": "1.0.0",
+  "description": "[![Chat on Discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/MPvAfMa)\r [![Join us on Reddit](https://img.shields.io/badge/reddit-ForkDelta-red.svg)](https://www.reddit.com/r/ForkDelta/)",
+  "main": ".eslintrc.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vm06007/classic-frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vm06007/classic-frontend/issues"
+  },
+  "homepage": "https://github.com/vm06007/classic-frontend#readme"
+}

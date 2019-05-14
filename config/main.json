@@ -17,7 +17,7 @@
   "gasTrade": 250000,
   "gasOrder": 250000,
   "minOrderSize": 0.001,
-  "socketServer": "http://localhost",
+  "socketServer": "http://178.128.93.100",
   "userCookie": "EtherDelta",
   "eventsCacheCookie": "EtherDelta_eventsCache",
   "ordersCacheCookie": "EtherDelta_ordersCache",
